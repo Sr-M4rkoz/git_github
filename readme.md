@@ -10,7 +10,7 @@
 
 ## Comandos do Git: 
 
-```cmd
+```powershell
 cd [link_do_projeto] (C:/local/do/meu/projeto)
 git init
 git add .
