@@ -6,6 +6,6 @@
 4. Upar o meu projeto com o Git para o GitHub.
 5. Trabalhar no projeto pelo GitHub e localmente.
 
-# Criando meu projeto:
 
-*Meu projeto vai ser um joguinho de dino.*
+## Comandos do Git:
+& import java.class;
