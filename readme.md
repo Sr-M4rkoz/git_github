@@ -9,4 +9,8 @@
 
 ## Comandos do Git: 
 
-``` import java.class; ```java
+```java import java.class; 
+    puclic class Main{
+        ...
+    }
+```
