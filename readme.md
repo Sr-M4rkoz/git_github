@@ -18,3 +18,6 @@ git branch -M main
 git remote add origin [link_do_repositorio](https://github.com/Sr-M4rkoz)
 git push -u origin main
 ```
+
+[link_do_repositorio](https://github.com/Sr-M4rkoz)
+[link_do_projeto](pasta)
