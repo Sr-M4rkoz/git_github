@@ -7,5 +7,6 @@
 5. Trabalhar no projeto pelo GitHub e localmente.
 
 
-## Comandos do Git:
-& import java.class;
+## Comandos do Git: 
+
+``` import java.class; ```java
