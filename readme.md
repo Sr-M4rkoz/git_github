@@ -10,7 +10,7 @@
 
 ## Comandos do Git: 
 
-```powershell
+```py
 cd [link_do_projeto] (C:/local/do/meu/projeto) #Vá ate a pasta do seu projeto!
 
 git init #Inicie o Git no seu projeto.
