@@ -11,11 +11,17 @@
 ## Comandos do Git: 
 
 ```powershell
-cd [link_do_projeto] (C:/local/do/meu/projeto)
-git init
-git add .
-git commit -m "Seu commit..."
-git branch -M main
-git remote add origin [link_do_repositorio] (https://github.com/Sr-M4rkoz/projeto)
-git push -u origin main
+cd [link_do_projeto] (C:/local/do/meu/projeto) #Vá ate a pasta do seu projeto!
+
+git init #Inicie o Git no seu projeto.
+
+git add . #Obtenha o seu projeto.
+
+git commit -m "Seu commit..." #Escreva o seu commit, descrição breve da sua modificação.
+
+git branch -M main #Defina como sua "linha do tempo" principal.
+
+git remote add origin [link_do_repositorio] (https://github.com/Sr-M4rkoz/projeto) #Defina a origem para onde seu projeto vai ser mandado. (seu repositorio no Github)
+
+git push -u origin main #Envie o projeto para o repositorio.
 ```
