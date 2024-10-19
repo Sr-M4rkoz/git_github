@@ -9,15 +9,12 @@
 
 ## Comandos do Git: 
 
-```java 
-package com.teste;
-import com.teste.Marca;
-
-@SuppressWarnings("unused")
-public class Main {
-    public static void main(String[] args) {
-
-        System.out.println("Hello world!sss");
-    }
-}
+```git
+cd [link_do_projeto](pasta)
+git init
+git add .
+git commit -m "Seu commit..."
+git branch -M main
+git remote add origin [link_do_repositorio](https://github.com/Sr-M4rkoz)
+git push -u origin main
 ```
