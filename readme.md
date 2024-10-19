@@ -5,3 +5,4 @@
 3. Criar uma "linha do tempo main" usando o Git na pasta do meu projeto.
 4. Upar o meu projeto com o Git para o GitHub.
 5. Trabalhar no meu projeto pelo GitHub e localmente.
+# 6. Criar seu projeto!
